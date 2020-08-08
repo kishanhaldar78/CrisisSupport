@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">KHS APP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nav_in">Open navigation drawer</string>
+    <string name="nav_out">Close navigation drawer</string>
+    <string name="about_us">Last year more than 10,000 Crisis volunteers from all walks of life gave up their time to help people experiencing homelessness. Volunteering with your company is a great way to bring real expertise and impact that can change the lives of people affected by homelessness. We have a range of meaningful opportunities that enable our corporate volunteers to develop their skills and understand how they can make a contribution to ending homelessness. We\'re trying to move away from painting days and digging gardens, towards welcoming teams and individuals who are able to contribute specific skills. This could be holding a CV and interview skills workshop for our members or helping our staff to acquire new skills and experience. When working with all corporate partners we are keen to ensure that what we deliver together has genuine value for our members and staff while also providing volunteers with an opportunity to understand homelessness more comprehensively</string>
+    <string-array name="spinner1">
+        <item>Selected</item>
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="spinner2">
+        <item>Selected</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="spinner3">
+        <item>Selected</item>
+        <item>Assam</item>
+        <item>Gujarat</item>
+        <item>Goa</item>
+    </string-array>
+
+</resources>

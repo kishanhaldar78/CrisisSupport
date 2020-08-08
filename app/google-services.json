@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596403642467",
+    "firebase_url": "https://crisiscorporation-45d1e.firebaseio.com",
+    "project_id": "crisiscorporation-45d1e",
+    "storage_bucket": "crisiscorporation-45d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596403642467:android:35d7809424fbdf97a11856",
+        "android_client_info": {
+          "package_name": "com.example.crisissupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596403642467-hkd96i9uuvp8johi372arkng5g7vn84e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_08KQnCQ0qZq--2coVsGenV4rL-0l7uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596403642467-hkd96i9uuvp8johi372arkng5g7vn84e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
